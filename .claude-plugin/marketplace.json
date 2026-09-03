@@ -514,7 +514,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "9918825a395d72ddea7401fc42aebff9099e3933"
+        "sha": "7c31364a6ef3ff754a10552f960293928a6b9577"
       },
       "homepage": "https://carta.com"
     },
@@ -527,7 +527,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "e512bd67c11e4b084f2ddfacf5ba6c40100a7962"
+        "sha": "7c31364a6ef3ff754a10552f960293928a6b9577"
       },
       "homepage": "https://carta.com"
     },
